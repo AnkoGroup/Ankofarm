@@ -1,5 +1,5 @@
 import Image from "next/image";
-import anko_farm_logo from '../../public/Logos_ANKO_FARM-removebg-preview.png'
+import anko_farm_logo from '../../public/Final removed bg logo 2.png'
 import coming_soon from '../../public/ankofarm_coming_soon.png'
 export default function Home() {
   return (
