@@ -30,14 +30,14 @@ hero-image {
 position: relative;
 text-align: center;
 color: #ffffff;
-padding: 2rem;
+padding: 0rem 2rem;
 max-width: 720px;
+margin-bottom: 7rem;
 }
 
 
 .badge {
 display: inline-block;
-padding: 2rem 1.6rem;
 border-radius: 999px;
 background: rgba(255, 255, 255, 0.15);
 backdrop-filter: blur(6px);
