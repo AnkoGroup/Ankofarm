@@ -10,7 +10,7 @@ export default function Home() {
 
       <section className="content">
 
-      <div className="mb-10 md:mb-25 lg:mb-30">
+      <div className="mt-15 mb:mt-7">
       <Image className="title" src={anko_farm_logo} sizes="100vw" alt="coming soon"/>
       <p className="description">
       We are cultivating something new. Our smart farming platform is
@@ -18,7 +18,7 @@ export default function Home() {
       modern agriculture.
       </p>
       </div>
-      <span className="badge text-lg md:text-3xl lg:text-5xl px-[.8rem] py-[.5rem] md:px-[1.6rem] md:py-[2rem]">Coming Soon</span>
+      <span className="badge text-lg mt-[19rem] md:text-3xl lg:text-5xl px-[.8rem] py-[.5rem] md:px-[1.6rem] md:py-[2rem]">Coming Soon</span>
       </section>
 
 
