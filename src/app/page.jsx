@@ -3,7 +3,7 @@ import ComingSoon from "@/components/ComingSoon";
 
 export default function Home() {
 
-  const x = false; 
+  const x = true; 
     
 {  return x==true? <ComingSoon /> : <Header /> }
       
