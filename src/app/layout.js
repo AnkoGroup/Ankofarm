@@ -35,12 +35,12 @@ export default function RootLayout({ children }) {
         <body
           className={`${geologica.variable} antialiased`}
         >
-        <HeroUIProvider>
-          <Nav />
-          <div className="max-w-[1400px] m-auto">
+          <HeroUIProvider>
+          {/*<Nav />*/}
+          {/*<div className="max-w-[1400px] m-auto"> */}
             {children}
-          </div>
-        </HeroUIProvider>
+          {/*</div>*/}
+          </HeroUIProvider>
         </body>
     </html>
   
